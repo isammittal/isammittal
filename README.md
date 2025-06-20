@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Sam Mittal
 
-<!--
-**isammittal/isammittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught **web developer** and **Python programmer** who loves building real-world projects with clean UI and strong functionality. Currently diving deep into **JavaScript** and exploring **3D web development** using Three.js and many more.
 
-Here are some ideas to get you started:
+I believe in **learning by building**, and my GitHub is a reflection of that journey — from clones of real apps to creative 3D websites and backend-powered tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+- 💻 HTML | CSS | Tailwind CSS
+- ⚙️ JavaScript (Learning) | Python (Intermediate)
+- 🧠 DOM Manipulation | API Integration | Exception Handling
+- 🧰 Git | GitHub | Cursor
+- 🧱 3D Web (Three.js) | Responsive Design
+- 🔊 Python Speech Recognition | Automation Scripts
+
+---
+
+### 🛠️ Projects I'm Working On
+
+- 🎬 **Netflix Clone** – Responsive UI with hover effects and API integration
+- 🎵 **Spotify Clone** – Music app layout with audio control and modern design
+- 💬 **WhatsApp Web Clone** – Messaging UI interface using JavaScript
+- 🖼️ **3D Art Gallery** – Immersive 3D site made with HTML/CSS/JS
+- 🔄 **Python Voice Assistant** – Speech-to-command tool that listens and responds using AI
+- many more..
+
+---
+
+### 📈 Currently Learning
+
+- Advanced JavaScript (ES6+)
+- Three.js for 3D Web Experiences
+- Python Back-End & APIs
+- Clean Code & Project Structure
+
+--- Never stopping to Dive Further
+
+---
+
+### 🔗 Connect With Me
+
+- 🌐 [Portfolio Website](https://isammittal.netlify.app/)
+- 🐙 [GitHub](https://github.com/isammittal/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sam-mittal-507911278/)
+- 🐦 [Twitter](https://twitter.com/SamMittal2010/)
+- 📧 [Email](sammittal2010@gmail.com)
+
+---
+
+> ⚡ Fun Fact: I’m just getting started, but I’m building like a pro.
