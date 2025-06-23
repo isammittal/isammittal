@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sam Mittal
 
-I'm a self-taught **web developer** and **Python programmer** who loves building real-world projects with clean UI and strong functionality. Currently diving deep into **JavaScript** and exploring **3D web development** using Three.js and many more.
+I'm a self-taught **web developer** and **Python programmer** who loves building real-world projects with clean UI and strong functionality. Currently diving deep into **JavaScript**, **Python** and exploring **3D web development** using Three.js and many more. Also Getting forward by making Clean, Working **AI**.
 
 I believe in **learning by building**, and my GitHub is a reflection of that journey — from clones of real apps to creative 3D websites and backend-powered tools.
 
@@ -9,11 +9,11 @@ I believe in **learning by building**, and my GitHub is a reflection of that jou
 ### 🚀 Tech Stack
 
 - 💻 HTML | CSS | Tailwind CSS
-- ⚙️ JavaScript (Learning) | Python (Intermediate)
+- ⚙️ JavaScript (Intermediate) | Python (Intermediate)
 - 🧠 DOM Manipulation | API Integration | Exception Handling
 - 🧰 Git | GitHub | Cursor
 - 🧱 3D Web (Three.js) | Responsive Design
-- 🔊 Python Speech Recognition | Automation Scripts
+- 🔊 Python Speech Recognition | Automation Scripts | AI BUILDING
 
 ---
 
@@ -24,6 +24,7 @@ I believe in **learning by building**, and my GitHub is a reflection of that jou
 - 💬 **WhatsApp Web Clone** – Messaging UI interface using JavaScript
 - 🖼️ **3D Art Gallery** – Immersive 3D site made with HTML/CSS/JS
 - 🔄 **Python Voice Assistant** – Speech-to-command tool that listens and responds using AI
+- ֎🇦🇮 **Gemini AI ChatBot** – Fully working AI with clean Animated UI and Hovereffects with colour gradients and multiple functionality made using gemini api key.
 - many more..
 
 ---
@@ -32,8 +33,9 @@ I believe in **learning by building**, and my GitHub is a reflection of that jou
 
 - Advanced JavaScript (ES6+)
 - Three.js for 3D Web Experiences
-- Python Back-End & APIs
+- Python Back-End, APIs & AI's
 - Clean Code & Project Structure
+- Machine Learning (ML) & Deep Learning (DL)
 
 --- Never stopping to Dive Further
 
