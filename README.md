@@ -25,6 +25,7 @@ I believe in **learning by building**, and my GitHub is a reflection of that jou
 - 🖼️ **3D Art Gallery** – Immersive 3D site made with HTML/CSS/JS
 - 🔄 **Python Voice Assistant** – Speech-to-command tool that listens and responds using AI
 - ֎🇦🇮 **Gemini AI ChatBot** – Fully working AI with clean Animated UI and Hovereffects with colour gradients and multiple functionality made using gemini api key.
+- ⚙️ **Patient Management API** - Patient Management API with all the working HTTP Requests; To get Body Mass Index(BMI) & Verdict by giving some data and making an working ID.
 - many more..
 
 ---
