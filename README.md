@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sam Mittal
 
-I'm a self-taught **web developer** and **Python programmer** who loves building real-world projects with clean UI and strong functionality. Currently diving deep into **JavaScript**, **Python** and exploring **3D web development** using Three.js and many more. Also Getting forward by making Clean, Working **AI**.
+I'm a self-taught **web developer** and **Python programmer** who loves building real-world projects with clean UI and strong functionality. Currently diving deep into **JavaScript**, **Python** and exploring **3D web development** using Three.js and many more. Also Getting forward by making Clean, Working **AI** and more clean backend logic with **FatAPI**.
 
 I believe in **learning by building**, and my GitHub is a reflection of that journey — from clones of real apps to creative 3D websites and backend-powered tools.
 
