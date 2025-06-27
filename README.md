@@ -26,6 +26,7 @@ I believe in **learning by building**, and my GitHub is a reflection of that jou
 - 🔄 **Python Voice Assistant** – Speech-to-command tool that listens and responds using AI
 - ֎🇦🇮 **Gemini AI ChatBot** – AI chatbot with clean Animated UI, modern styles and multiple functionality made using gemini api key.
 - ⚙️ **Patient Management API** - API with all HTTP Requests; To get Body Mass Index(BMI) & Verdict by giving some data and getting an ID.
+- ⛏ **Minecraft Clone** - React JS app clone of Minecraft. Small system with flat land with Real Game UI & Real Textures.
 - many more..
 
 ---
