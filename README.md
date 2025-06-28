@@ -19,13 +19,13 @@ I believe in **learning by building**, and my GitHub is a reflection of that jou
 
 ### 🛠️ Projects I'm Working On
 
-- 🎬 **Netflix Clone** – Responsive UI with hover effects and API integration
-- 🎵 **Spotify Clone** – Music app layout with audio control and modern design
-- 💬 **WhatsApp Web Clone** – Messaging UI interface using JavaScript
-- 🖼️ **3D Art Gallery** – Immersive 3D site made with HTML/CSS/JS
+- 🎬 **Netflix Clone** – Frontend Main Page Clone with Clean and Immersive UI.
+- 🎵 **Spotify Music Clone** – Music app layout with audio control and modern design.
+- 💬 **WhatsApp Web Clone** – Messaging UI interface using JavaScript(older)
 - 🔄 **Python Voice Assistant** – Speech-to-command tool that listens and responds using AI
 - ֎🇦🇮 **Gemini AI ChatBot** – AI chatbot with clean Animated UI, modern styles and multiple functionality made using gemini api key.
 - ⚙️ **Patient Management API** - API with all HTTP Requests; To get Body Mass Index(BMI) & Verdict by giving some data and getting an ID.
+- ✅ **Laptop & Insurance** - Predict the Laptop Price and Insurance Premium Prediction. Both are different Projects made using FastAPI. Detailed API site works with Streamlit.
 - ⛏ **Minecraft Clone** - React JS app clone of Minecraft. Small system with flat land with Real Game UI & Real Textures.
 - many more..
 
