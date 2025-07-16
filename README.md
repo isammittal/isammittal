@@ -47,7 +47,7 @@ I believe in **learning by building**, and my GitHub is a reflection of that jou
 
 - 🌐 [Portfolio Website](https://isammittal.netlify.app/)
 - 🐙 [GitHub](https://github.com/isammittal/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sam-mittal-507911278/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/isammittal/)
 - 🐦 [Twitter](https://twitter.com/isammittal/)
 - 📧 [Email](sammittal2010@gmail.com)
 
